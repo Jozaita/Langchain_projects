@@ -1,0 +1,84 @@
+{
+    "public_identifier": "luis-palomeque-del-cerro-86a5a0284",
+    "profile_pic_url": "https://media.licdn.com/dms/image/v2/D4D03AQE9oTTcxLai2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700905129290?e=1731542400&v=beta&t=kHNEgcr7AetdN0xaWK1z0usNrR_MvodzLT9xCN0MoRQ",
+    "background_cover_image_url": null,
+    "first_name": "Luis",
+    "last_name": "Palomeque del Cerro",
+    "full_name": "Luis Palomeque del Cerro",
+    "follower_count": 1076,
+    "occupation": "Director académico at Escuela Osteopatía de Madrid (EOM España)",
+    "headline": "PT, PhD, DO. Director Académico EOM Internacional. Director Clínico de Ofistema Clínica de Osteopatía, Fisioterapia y PNI clínica",
+    "summary": null,
+    "country": "ES",
+    "country_full_name": "Spain",
+    "city": "Madrid",
+    "state": "Community of Madrid",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": null,
+            "company": "Escuela Osteopatía de Madrid (EOM España)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/escuela-osteopat%C3%ADa-de-madrid-eom",
+            "company_facebook_profile_url": null,
+            "title": "Director académico",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGxMGoy2rk9rg/company-logo_400_400/company-logo_400_400/0/1630530522437/escuela_osteopata_de_madrid_eom_logo?e=1733961600&v=beta&t=PMxr5XKH_KgQb4L9YxBkM1V0vzmA-jIPFBydkt4eOhI"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "company": "Ofistema Clínica de Osteopatía y Fisioterapia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ofistema-cl%C3%ADnica-de-osteopat%C3%ADa-y-fisioterapia",
+            "company_facebook_profile_url": null,
+            "title": "Fisioterapeuta Osteópata",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHT4Awyo21VvQ/company-logo_400_400/company-logo_400_400/0/1631306977190?e=1733961600&v=beta&t=eN7N2P6BQpTaFl6ii4l2kuII6I-FzuXwHUm_VICft5U"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1063,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/D4D07AQHhrtDYPC1cAQ/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1702327044085?e=1726750800&v=beta&t=_COhVJjH7Ru0QEeQTe1PRl8IPsOhhZCG8P41H_8VQBQ",
+            "name": "Neurociencias",
+            "url": "https://www.linkedin.com/groups/12700480"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": "Health, Wellness & Fitness",
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
